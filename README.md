@@ -80,11 +80,12 @@ I used **ChatGPT (GPT-5)** to help with:
 
 These suggestions helped refine the logic and improve app stability while keeping the project lightweight and understandable.
 
-## Screenshots
+## Screenshot
 
+Here’s a preview of the current UI:
 
-Example layout:  
-![ParkSmart NYC Screenshot](./screenshot.png)
+![App Screenshot](Output%20Image.png)
+
 
 ## Future Improvements
 - Add route and distance calculation between user location and parking spots.    
