@@ -24,11 +24,11 @@ Additionally:
   Used to convert the searched city or neighborhood name (e.g., “Brooklyn”) into latitude and longitude coordinates for the map center.
 
 ## Features
-- 🗺️ **Interactive Map** – Built with React Leaflet to visualize real parking spots dynamically.  
-- 📍 **Real User Location** – Uses your device’s GPS to display where you are on the map.  
-- 🔎 **Search Any NYC Area** – Enter boroughs or neighborhoods to view all parking spaces nearby.  
-- 💡 **Parking Info Popups** – Each marker shows name, type, and cost (free/paid).  
-- 🧭 **Auto-Center Map** – The map intelligently adjusts to focus on the searched area.
+-  **Interactive Map** – Built with React Leaflet to visualize real parking spots dynamically.  
+-  **Real User Location** – Uses your device’s GPS to display where you are on the map.  
+-  **Search Any NYC Area** – Enter boroughs or neighborhoods to view all parking spaces nearby.  
+-  **Parking Info Popups** – Each marker shows name, type, and cost (free/paid).  
+-  **Auto-Center Map** – The map intelligently adjusts to focus on the searched area.
 
 ## Setup Instructions
 1. Clone this repository:
